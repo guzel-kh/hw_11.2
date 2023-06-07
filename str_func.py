@@ -1,4 +1,9 @@
 def str_upper(string: str):
+    """
+    возвращает строку со всеми заглавными буквами
+    :param string: str
+    :return: str
+    """
     return string.upper
 
 
