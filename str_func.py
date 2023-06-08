@@ -7,7 +7,7 @@ def str_upper(string: str):
     return string.upper
 
 
-def str_title(string: str):
+def str_titled(string: str):
     """
     делает заглавными первые буквы каждого слова в строке
     :param string: str
